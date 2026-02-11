@@ -1,0 +1,224 @@
+[
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DPRODUCTION_BUILD=1 -DRESOURCES_PATH=\\\"./resources/\\\" -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/rlImGui -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -o CMakeFiles\\tutorialplayground.dir\\src\\main.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\src\\main.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/src/main.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/CMakeFiles/tutorialplayground.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\rcore.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/rcore.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rcore.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\rmodels.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/rmodels.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rmodels.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\rshapes.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/rshapes.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rshapes.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\rtext.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/rtext.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rtext.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\rtextures.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/rtextures.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rtextures.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\utils.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/utils.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/utils.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -isystem C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\raylib-5.0\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\raudio.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/raudio.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/CMakeFiles/raylib.dir/raudio.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\context.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/context.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\init.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/init.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\input.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/input.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/monitor.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\platform.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/platform.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/vulkan.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\window.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/window.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/egl_context.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/osmesa_context.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\null_init.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/null_init.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/null_monitor.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\null_window.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/null_window.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/null_joystick.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_module.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_time.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_thread.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_init.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_joystick.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_monitor.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/win32_window.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -flto=thin -Wall -o thirdparty\\raylib-5.0\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\raylib-5.0\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/src/wgl_context.c",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\imgui.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\imgui.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/imgui.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\imgui_demo.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\imgui_demo.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/imgui_demo.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\imgui_draw.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/imgui_draw.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\imgui_tables.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/imgui_tables.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\imgui_widgets.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/imgui_widgets.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\imgui-docking\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\imgui-docking\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/rlImGui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/imgui-docking/imgui -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src -IC:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/raylib-5.0/src/external/glfw/include -O3 -DNDEBUG -std=gnu++17 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o thirdparty\\rlImGui\\CMakeFiles\\rlimgui.dir\\rlImGui.cpp.obj -c C:\\Users\\cheil\\Repositories\\CxxProjects\\TutorialPlayground\\thirdparty\\rlImGui\\rlImGui.cpp",
+  "file": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/thirdparty/rlImGui/rlImGui.cpp",
+  "output": "C:/Users/cheil/Repositories/CxxProjects/TutorialPlayground/build/thirdparty/rlImGui/CMakeFiles/rlimgui.dir/rlImGui.cpp.obj"
+}
+]

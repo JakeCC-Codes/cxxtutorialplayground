@@ -1,0 +1,7 @@
+/out
+bin/
+/.vs
+.idea/
+.cache/
+CMakeSettings.json
+Makefile
