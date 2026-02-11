@@ -1,22 +1,15 @@
-### CxxProjectTemplate
+### C++TutorialPlayground
 > by JakeCCz
 
-Project Template for any C++ Projects being made, with raylib, ninja and cmake installed by default.
+This is a Console Application, made using C++. It is a compilation of C++ Coding Questions found in the youtube video linked below.
+Also features a custom made dice minigame if you are interested!
 
-## Compile Instructuions:
+https://www.youtube.com/watch?v=ZzaPdXTrSb8&t=2s
 
-1. Run "activate.ps1"
+## Installation Instructions:
 
-2. Open "CMakeLists.txt"
+1. Extract .zip file into your desired project folder
 
-3. Change option "PRODUCTION_BUILD" from **OFF** to **ON** [Optional]
+2. Run the .exe file located in `ProjectDirectory:\\build\bin\`
 
-4. Save "CMakeLists.txt"
-
-5. Open Terminal
-
-6. Type command `cd build`
-
-7. Type command `ninja`
-
-8. Result will be found in `ProjectDirectory:\\build\bin\`
+3. The executable is called "tutorialplayground.exe"
